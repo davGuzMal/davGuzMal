@@ -15,7 +15,7 @@ I would like to keep learning every day about technology and so I'll be able to 
 
 # Technology stack
 
-![JavaScript](https://asset.cloudinary.com/dgjpk6ovz/f073f3f5be59c1dcc180b2f9297f8375)
+![Oracle](https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png)
 Along my studies as Engineer as well as in the Henry Bootcamp I learned and get experienced in technologies like:
 
 <ul>
