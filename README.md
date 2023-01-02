@@ -13,7 +13,7 @@ society and I do all my best to contribute to that process of growing.
 
 I would like to keep learning every day about technology and so I'll be able to grow professionally. I am sure that I can learn whatsoever new subject related to software since I truly love it
 
-# Technology stack
+# My tech skills
 
 Along my studies as Engineer as well as in the Henry Bootcamp I learned and get experienced in technologies like:
 
