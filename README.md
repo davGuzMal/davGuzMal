@@ -15,7 +15,9 @@ I would like to keep learning every day about technology and so I'll be able to 
 
 # Technology stack
 
+![JavaScript](https://asset.cloudinary.com/dgjpk6ovz/f073f3f5be59c1dcc180b2f9297f8375)
 Along my studies as Engineer as well as in the Henry Bootcamp I learned and get experienced in technologies like:
+
 <ul>
   <li>JavaScript</li>
   <li>TypeScript</li>
@@ -27,3 +29,9 @@ Along my studies as Engineer as well as in the Henry Bootcamp I learned and get 
   <li>ASP.NET</li>
   <li>VBA</li>
 </ul>
+
+# Contact
+
+Here you'll find my contact details, don't hesitate and get in touch if so we can start coding new amazing projects
+Linkedin : www.linkedin.com/in/davidguzmal-2a3ba01b3
+Email : dgm051195@gmail.com
