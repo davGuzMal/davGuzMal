@@ -14,7 +14,7 @@ society and I do all my best to contribute to that process of growing.
 I would like to keep learning every day about technology and so I'll be able to grow professionally. I am sure that I can learn whatsoever new subject related to software since I truly love it
 
 # Technology stack
-<img src ='https://upload.wikimedia.org/wikipedia/fr/thumb/6/68/Oracle_SQL_Developer_logo.svg/1200px-Oracle_SQL_Developer_logo.svg.png'>
+
 Along my studies as Engineer as well as in the Henry Bootcamp I learned and get experienced in technologies like:
 
 <ul>
@@ -32,5 +32,5 @@ Along my studies as Engineer as well as in the Henry Bootcamp I learned and get 
 # Contact
 
 Here you'll find my contact details, don't hesitate and get in touch if so we can start coding new amazing projects
-![Perfil de Linkedin] (www.linkedin.com/in/davidguzmal-2a3ba01b3)
+![Perfil de Linkedin](www.linkedin.com/in/davidguzmal-2a3ba01b3)
 Email : dgm051195@gmail.com
