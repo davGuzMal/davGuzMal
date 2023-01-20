@@ -45,5 +45,5 @@ Along my studies as Engineer as well as in the Henry Bootcamp I learned and get 
 # Contact
 
 Here you'll find my contact details, don't hesitate and get in touch if so we can start coding new amazing projects
-* [Linkedin Profil](https://www.linkedin.com/in/davidguzmal-2a3ba01b3/)
+* [Linkedin Profile](https://www.linkedin.com/in/davidguzmal-2a3ba01b3/)
 * Email : dgm051195@gmail.com
